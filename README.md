@@ -5,6 +5,9 @@
 + ✨ A console-based ATM simulation with intuitive banking operations
 
 # 🌟 Key Features
+
+![start](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2YybWY5cGV2aDZkM3BrNThpc2Q5b2d4eXpuZ2FjdDRxMGZ4aWI5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6q5wD0EEtpakhwGTmo/giphy.gif)
+
 + 💵 Deposit funds - Add money to your account
 
 + 🏧 Withdraw cash - Get physical money from your balance
@@ -22,12 +25,6 @@
 
 + 🔒 Simulated banking operations
 
-# 📝 Example Session
-```
-Select operation: 1
-Enter amount: 500
-+ Amount 500 UAH successfully deposited!
-```
 # 🚀 Getting Started
 
 + **Simple! Dobble click the `DigitalATM.exe` file. 😀**
