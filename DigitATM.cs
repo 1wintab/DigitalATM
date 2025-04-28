@@ -161,7 +161,6 @@ class BankMenu
             return;
         }
 
-
         if (value <= clientAccount.CheckBalance())
         {
             clientAccount.WithdrawMoney(value);
@@ -249,7 +248,7 @@ class BankAccount
     }
 }
 
-class Program
+class DigitATM
 {
     static int Main()
     {
