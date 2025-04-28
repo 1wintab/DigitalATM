@@ -6,7 +6,7 @@
 
 # 🌟 Key Features
 
-![start](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVxb3p3dnh5dGo3c3l0b21mZm51ZWo3MTR4ZjNneTd3MjduNHVpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C8f3ZorFpmq3ryavg4/giphy.gif)
+![start](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdtOTlwY2l4czk2ZHU2ZmlrZTlmMW1laGZvbGtqeWR4anNmZzR6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubpZt3WeQaWVhbTGt0/giphy.gif)
 
 + 💵 Deposit funds - Add money to your account
 
