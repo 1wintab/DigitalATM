@@ -13,10 +13,6 @@
 
 + 🚪 Secure exit - Properly terminate the session
 
-# 🚀 Quick Start
-Prerequisites
-+ .NET Core 3.1+
-
 # ⚙️ Technical Highlights
 + ✅ Input validation
 
