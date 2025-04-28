@@ -29,7 +29,7 @@
 
 + **Simple! Dobble click the `DigitalATM.exe` file. 😀**
 
-   [![start](https://i.imgur.com/uQ4XEbf.png)](https://github.com/1wintab/ArraySearcher/raw/refs/heads/master/DigitalATM.exe)
+   [![start](https://i.imgur.com/uQ4XEbf.png)](https://github.com/1wintab/DigitalATM/raw/refs/heads/master/DigitalATM.exe)
 
 ## 🌐 My Developer Portfolio
 
